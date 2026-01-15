@@ -11,6 +11,9 @@ POST - http://localhost:8080/api/quiz/question
 
 GET - http://localhost:8080/api/quiz/questions
 
+
+POST - http://localhost:8080/api/quiz/submit
+
 input: 
 {
   "answers": {
